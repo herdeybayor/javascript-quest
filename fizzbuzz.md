@@ -59,6 +59,8 @@ function fizzBuzz(end) {
     console.log(i);
   }
 }
+
+fizzBuzz(50);
 ```
 
 ---
