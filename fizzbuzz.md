@@ -53,14 +53,7 @@ FizzBuzz
 ## 💻 Starter Code
 
 ```javascript
-function fizzBuzz(end) {
-  for (let i = 1; i <= end; i++) {
-    // Your code here
-    console.log(i);
-  }
-}
-
-fizzBuzz(50);
+console.log("Welcome");
 ```
 
 ---
